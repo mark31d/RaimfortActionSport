@@ -9,7 +9,7 @@ workflows:
         distribution_type: app_store
         bundle_identifier: com.RaimfortActionSport
       vars:
-        APP_STORE_APPLE_ID: 6756304325
+        APP_STORE_APPLE_ID: 6757938718
         XCODE_WORKSPACE: RaimfortActionSport.xcworkspace
         CODE_SCHEME: RaimfortActionSport
     scripts:
